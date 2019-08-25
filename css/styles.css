@@ -1,0 +1,10 @@
+/* This is the stylesheet for UX/UI BitwiseCohortproject */
+
+
+
+
+body{
+  opacity: 1;
+  background-image: url(../img/gavel-1.jpg);
+  background-size: cover;  /*This covers the whole space,not by image size*/
+}
