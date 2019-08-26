@@ -15,6 +15,15 @@ body{
   background-position:bottom;
 }
 
+footer{
+  position:fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  /* background-color: black; */
+  color: white;
+  text-align: center;
+}
 
 .img-gavel{
   opacity: 1;
@@ -27,6 +36,13 @@ body{
   background-size: 100% 100%;
 }
 
+.img-scale{
+  opacity: 1;
+  background-image: url(../img/scale-3.jpg);
+  background-size: 100% 100%;
+}
+
+
 .background-lightgrey{
   opacity: 1;
   background-color: lightgrey;
@@ -38,7 +54,14 @@ body{
   text-shadow: 0px 0px 5px black;
 }
 
+.black-text{
+  color: black;
+  text-shadow: 0px 0px 5px white;
+  /* font-weight: bold; */
+}
+
 .nav-text{
+  /* font-family: 'Romanesco', cursive; */
   color: white;
   text-shadow: 0px 0px 5px black;
   font-weight: bold;
