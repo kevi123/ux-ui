@@ -8,3 +8,10 @@ body{
   background-image: url(../img/gavel-1.jpg);
   background-size: cover;  /*This covers the whole space,not by image size*/
 }
+
+
+.img-gavel{
+  opacity: .9;
+  background-image: url(../img/gavel-3.jpg);
+  background-size: cover;
+}
