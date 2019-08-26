@@ -19,5 +19,5 @@ document.getElementById('logo').addEventListener("click", clickFunction2);
 
 function clickFunction2(e){
   peoplesCourtTheme.play();
-  alert("The Peoples' Court is In Session");
+  // alert("The Peoples' Court is In Session");
 }
