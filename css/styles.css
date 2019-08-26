@@ -29,7 +29,13 @@ footer{
   color: inherit;
 }
 
-.img-gavel{
+.img-gavel-1{
+  opacity: 1;
+  background-image: url(../img/gavel-1.jpg);
+  background-size: 100% 100%;
+}
+
+.img-gavel-3{
   opacity: 1;
   background-image: url(../img/gavel-3.jpg);
   background-size: 100% 100%;
