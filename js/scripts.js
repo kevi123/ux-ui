@@ -5,6 +5,7 @@ peoplesCourtTheme.play();
 
 
 document.getElementById('v-pills-home-tab').addEventListener("click", clickFunction);
+document.getElementById('v-pills-profile-tab').addEventListener("click", clickFunction);
 document.getElementById('v-pills-messages-tab').addEventListener("click", clickFunction);
 document.getElementById('v-pills-settings-tab').addEventListener("click", clickFunction);
 
