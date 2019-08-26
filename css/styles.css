@@ -48,6 +48,10 @@ footer{
   background-color: lightgrey;
 }
 
+.margin-top{
+  margin-top: 10px;
+}
+
 .white-text
 {
   color: white;
