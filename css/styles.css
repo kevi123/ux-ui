@@ -6,12 +6,23 @@
 body{
   opacity: 1;
   background-image: url(../img/gavel-1.jpg);
+  background-repeat: no-repeat;
   background-size: cover;  /*This covers the whole space,not by image size*/
 }
 
 
 .img-gavel{
-  opacity: .9;
+  opacity: .5;
   background-image: url(../img/gavel-3.jpg);
-  background-size: cover;
+  background-size: 100% 100%;
+}
+.img-book{
+  opacity: 1;
+  background-image: url(../img/book-1.jpg);
+  background-size: 100% 100%;
+}
+
+.background-lightgrey{
+  opacity: 1;
+  background-color: lightgrey;
 }
